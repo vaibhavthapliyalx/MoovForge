@@ -1,6 +1,6 @@
-# 🛠️ FrameFixer Pro
+# 🛠️ MoovForge
 
-FrameFixer Pro is a commercial-grade, cross-platform CLI tool for repairing corrupted `.mov`, `.mp4`, and similar video files. It mimics functionality from tools like Remo Repair, featuring atom parsing, moov atom recovery, FFmpeg fallback, and more.
+MoovForge is a commercial-grade, cross-platform CLI tool for repairing corrupted `.mov`, `.mp4`, and similar video files. It mimics functionality from tools like Remo Repair, featuring atom parsing, moov atom recovery, FFmpeg fallback, and more.
 
 ## ✅ Features
 
